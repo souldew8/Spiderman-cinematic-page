@@ -1,59 +1,99 @@
-<p align="center">
-  <h1 align="center">🕷 SPIDERBYMAN</h1>
-  <p align="center">
-    A Cinematic Web Experience Built with React & TypeScript
-  </p>
-</p>
+🕷 SpiderByMan – Cinematic Web Experience
 
----
+Welcome to the SpiderByMan cinematic landing page project.
+This project showcases advanced frontend animation techniques, smooth scrolling systems, and immersive UI storytelling built using modern web technologies.
 
-## 🎬 Enter The Cinematic Universe
+🚀 Live Experience
 
-SpiderByMan is a high-performance cinematic landing page engineered with modern frontend technologies.  
-Designed to deliver immersive scroll-based storytelling, smooth motion animations, and a premium movie-style aesthetic.
+🌐 https://spiderbyman.netlify.app
 
-🔗 **Live Experience:** https://spiderbyman.netlify.app/  
-🔗 **GitHub Repo:** https://github.com/souldew8/Spiderman-cinematic-page  
+💻 GitHub Repository: https://github.com/souldew8/Spiderman-cinematic-page
 
----
+🎬 Project Overview
 
-## 🚀 Tech Arsenal
+SpiderByMan is a high-performance cinematic landing page inspired by superhero-themed storytelling.
+The goal of this project was to combine smooth motion animations, responsive design, and modular architecture to create a premium movie-style web experience.
 
-- ⚛ React 19
-- 🟦 TypeScript
-- ⚡ Vite
-- 🎬 Framer Motion (Advanced UI Motion)
-- 🌊 Lenis (Ultra Smooth Scroll)
-- 💨 Tailwind CSS
-- 🎯 Lucide & React Icons
-- 🧹 ESLint
+🛠 Tech Stack
 
----
+React
 
-## 🧠 Engineered Concepts
+TypeScript
 
-- Scroll-triggered cinematic transitions  
-- Smooth parallax-style motion effects  
-- Type-safe component architecture  
-- Conditional styling with `clsx` & `tailwind-merge`  
-- Modular scalable file structure  
-- Performance-optimized production build  
+Vite
 
----
+Framer Motion
 
-## 🎮 Core Features
+Lenis (Smooth Scroll)
 
-🕷 Cinematic Hero Section  
-🎬 Smooth Scroll Experience  
-✨ Animated Typography  
-🌑 Dark Premium UI  
-📱 Fully Responsive  
-⚡ Optimized Performance  
+Tailwind CSS
 
----
+Lucide & React Icons
 
-## 📦 Installation
+🎮 Key Features
 
-```bash
+Cinematic Hero Section
+
+Scroll-Based Storytelling
+
+Smooth Parallax Motion Effects
+
+Animated Typography
+
+Dark Premium UI Theme
+
+Fully Responsive Layout
+
+Optimized Production Build
+
+🧠 Concepts Implemented
+
+Component-based architecture
+
+Type-safe development with TypeScript
+
+Motion-based UI interactions
+
+Scroll-triggered animations
+
+Scalable folder structure
+
+Performance optimization
+
+📦 Installation
 npm install
 npm run dev
+
+🏗 Production Build
+npm run build
+
+👨‍💻 About The Developer
+
+Manish Prajapati
+Frontend Web Developer
+
+I specialize in building modern, high-performance web interfaces using React, TypeScript, and animation libraries.
+This project reflects my interest in cinematic UI design, smooth motion systems, and interactive storytelling on the web.
+
+🛠 Skills Demonstrated
+
+Advanced Frontend Development
+
+Animation Systems
+
+Responsive Design
+
+UI/UX Design Principles
+
+Performance Optimization
+
+Production Deployment
+
+🌐 Portfolio
+
+https://webdevmanish.in
+
+⚠ Disclaimer
+
+This project was created for educational and portfolio purposes.
+All character references belong to their respective owners.
